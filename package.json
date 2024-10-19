@@ -1,0 +1,37 @@
+{
+  "name": "steam-totp-cli",
+  "version": "1.0.0",
+  "description": "Steam TOTP CLI",
+  "main": "index.js",
+  "bin": {
+    "stc": "index.js"
+  },
+  "keywords": [
+    "steam",
+    "totp",
+    "steam client",
+		"steam guard",
+    "steam totp",
+    "steam token",
+    "steam token generator",
+    "steam 2fa",
+    "steam totp cli"
+  ],
+  "author": {
+    "name": "Honest",
+    "email": "honestxll@gmail.com",
+    "url": "https://honest719.github.io"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "steam-totp": "^2.1.2"
+  },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/honest719/steam-totp-cli.git"
+	},
+  "bugs": {
+    "url": "https://github.com/honest719/steam-totp-cli/issues"
+  },
+  "homepage": "https://github.com/honest719/steam-totp-cli#readme"
+}
