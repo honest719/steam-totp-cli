@@ -6,5 +6,7 @@ Usage is simple:
 
 ```bash
 npm i -g steam-totp-cli
-stc <secret>
+stc cnOgv/KdpLoP6Nbh0GMkXkPXALQ=
 ```
+
+please use your 2fa codes instead of `cnOgv/KdpLoP6Nbh0GMkXkPXALQ=`
